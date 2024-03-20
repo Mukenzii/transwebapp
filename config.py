@@ -1,0 +1,3 @@
+TOKEN = '6585363141:AAH_juZoOrZ6spsEmKu6lWbtQddo6s6GyXk'
+CHANNEL_ID = '@tttttttttttttttestssssss'
+PRIVATE_CHANNEL_ID = '-1002041524850'
